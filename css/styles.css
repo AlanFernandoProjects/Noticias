@@ -1,0 +1,36 @@
+body{
+	background-color: #ccc;
+}
+#header{
+	background-color: #222;
+	color: #FFF;
+	padding: 5px 0 5px 30px;
+}
+#contenido{
+	background-color: #fff;
+}
+#menu-principal{
+	background-color: #444;
+	margin-bottom: 30px;
+	padding-left: 30px;
+}
+#menu-principal a{
+	color: #fff;
+}
+#menu-principal a:hover{
+	color: #FFF;
+	background-color: #5DADE2;
+
+}
+.notas{
+	margin-bottom: 20px;
+}
+#pie{
+	background-color: #000;
+	color: #fff;
+	padding: 25px 0 25px 0;
+}
+#pie a{
+	color: #FFF;
+	text-decoration-line: none;
+}
